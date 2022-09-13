@@ -1,3 +1,4 @@
+# README
 The point of this site was to explore and learn how to implement bootstrap and figma in my workflow. The site contains information about me and
 some of my interests and has the theme of my favourite football team Hammarby IF. I tried to use the bootstrap classes as often as I saw fit and
 the finished product came out pretty similar to how I planned it in figma. One of the problems I found using bootstrap was that there were no small
